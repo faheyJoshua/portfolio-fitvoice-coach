@@ -57,7 +57,7 @@ The `VoiceCoach` class is implemented as a Singleton to manage the speech engine
 classDiagram
     class VoiceCoach {
         <<singleton>>
-        {static} +shared: VoiceCoach
+        +shared: VoiceCoach
         -speechRecognizer: SFSpeechRecognizer
         -speechSynthesizer: AVSpeechSynthesizer
         +startListening() -> AsyncStream<String>
