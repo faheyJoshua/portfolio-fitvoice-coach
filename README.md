@@ -10,9 +10,6 @@
 - [AVFoundation Usage](#avfoundation-usage)
 - [Singleton Pattern](#singleton-pattern)
 - [Enthusiast Appeal](#enthusiast-appeal)
-- [Setup Guide](#setup-guide)
-- [Visuals](#visuals)
-- [Demo Video](#demo-video)
 
 ---
 
