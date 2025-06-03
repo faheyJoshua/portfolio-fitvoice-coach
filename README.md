@@ -86,6 +86,6 @@ classDiagram
 ---
 
 ### Additional Notes
-- **Folder Structure**: The project is organized into `Models`, `Voice`, `Views`, `ViewModels`, and `Tests` for clarity.
-- **Unit Tests**: Comprehensive tests for models, view models, and voice functionality are included in the `Tests` folder.
+- **Folder Structure**: The project is organized into `Models`, `Voice`, `Views`, `ViewModels`, for clarity.
+- **Unit Tests**: Comprehensive tests for models, view models, and voice functionality are included in the `PortfolioFitVoiceTests` folder.
 - **No External Dependencies**: The app runs entirely locally, with no need for external APIs or services.
